@@ -1,3 +1,119 @@
-body {
-    background-color: blue;
+p.a {
+    font-family: 'Roboto', sans-serif;
 }
+p.a {
+    font-family: 'Raleway', sans-serif;
+}
+/* Header */
+.page-header {
+    background-color: #FFFFFF;
+}
+.logo { 
+    color: #2E2F42;
+    width: 71px;
+    height: 24px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+}
+.logo-web {
+    color: #4D5AE5;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+}
+.link {
+color: #2E2F42;
+}
+.site-nav .link:hover, 
+.site-nav .link:focus{
+    color: #404BBF;
+}
+ul {
+    list-style: none;
+}
+.site-address .address-mail {
+    color: #434455;
+}
+.site-address .address-mail:hover {
+    color: #404BBF;
+}
+.site-address .address-phone {
+    color: #434455;
+}
+.site-address .address-phone:hover {
+    color: #404BBF;
+}
+
+/* HeroSection1 */
+.hero {
+    background-color:#2E2F42;
+}
+.hero-titel{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    color: #FFFFFF;
+    text-align: center;
+    letter-spacing: 0.02em;
+} 
+.main-button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+ .section{
+    background: #E5E5E5;
+ }
+.section-team{
+    background: #F4F4FD;
+}
+ /* Footer */
+ .logo-studio{
+    color: #F4F4FD;
+    width: 71px;
+    height: 22px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+ }
+footer{
+    background: #2E2F42;
+    color: #E7E9FC;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+/*Primary Brand color(normal)CTAs
+Focused
+Active states
+Links 4D5AE5*/
+/*Pressed state (hover) color #404BBF*/
+/*Overlays Shadows Headings #2E2F42*/
+/*Body text #434455*/
+/*Subtle Text Helper text Deemphasized text #8E8F99
+/*Accent color Hairlines Subtle backgrounds #E7E9FC*/
+/*Light mode backgrounds Light mode Dialogs/alerts #F4F4FD*/
+/*Overlay #2E2F42*/
+/*Hero image background #2E2F42 */
+
+
