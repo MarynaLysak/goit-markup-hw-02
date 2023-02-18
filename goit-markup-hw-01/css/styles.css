@@ -10,28 +10,27 @@ p.a {
 }
 /* Logo */
 .logo { 
-color: #2E2F42;
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-ine-height: 24px;
+   color: #2E2F42;
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 800;
+   line-height: 24px;
 }
 .logo-web {
-color: #4D5AE5;
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 24px;
+   color: #4D5AE5;
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 18px;
+   line-height: 24px;
 }
 /* links */
 .link {
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #2E2F42;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 24px;
+   letter-spacing: 0.02em;
+   color: #2E2F42;
 }
 .site-nav .link:hover, 
 .site-nav .link:focus{
