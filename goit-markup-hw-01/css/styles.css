@@ -10,26 +10,27 @@ p.a {
 }
 /* Logo */
 .logo { 
-    color: #2E2F42;
-    width: 71px;
-    height: 24px;
-    
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 24px;
+color: #2E2F42;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+ine-height: 24px;
 }
 .logo-web {
-    color: #4D5AE5;
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 24px;
+color: #4D5AE5;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 24px;
 }
 /* links */
 .link {
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .site-nav .link:hover, 
@@ -40,13 +41,21 @@ ul {
     list-style: none;
 }
 .site-address .address-mail {
-    color: #434455;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
 }
 .site-address .address-mail:hover {
     color: #404BBF;
 }
 .site-address .address-phone {
-    color: #434455;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px; 
+letter-spacing: 0.02em;  
+color: #434455;
 }
 .site-address .address-phone:hover {
     color: #404BBF;
@@ -81,8 +90,6 @@ ul {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
 }
-
-
 
  .section{
     background: #FFFFFF;
@@ -129,6 +136,25 @@ ul {
     outline: none;
     white-space: nowrap;
     }
+    /* Body */
+.section .section-title{ 
+        color: #2E2F42;
+    }
+.section-discription .section-title{
+    color: #2E2F42;
+    }
+  
+ .section .section-discription{
+    color: #2E2F42;
+    }
+
+.section .section-p{
+    color: #434455;
+}
+.section .section-p{
+    color: #434455;
+}
+
  /* Footer */
  .logo-studio{
     color: #F4F4FD;
@@ -148,13 +174,14 @@ footer{
     font-size: 16px;
     line-height: 24px;
 }
+
 /*Primary Brand color(normal)CTAs
 Focused
 Active states
-Links 4D5AE5*/
+Links  color: #4D5AE5*/
 /*Pressed state (hover) color #404BBF*/
 /*Overlays Shadows Headings #2E2F42*/
-/*Body text #434455*/
+/*-text-color:#434455*/
 /*Subtle Text Helper text Deemphasized text #8E8F99
 /*Accent color Hairlines Subtle backgrounds #E7E9FC*/
 /*Light mode backgrounds Light mode Dialogs/alerts #F4F4FD*/
