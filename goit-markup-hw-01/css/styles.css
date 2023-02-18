@@ -55,7 +55,7 @@ Links  color: #4D5AE5*/
 }
 .site-nav .link:hover, 
 .site-nav .link:focus{
-    color: #404BBF;
+color: var(--hover-color)
 }
 ul {
     list-style: none;
@@ -68,7 +68,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .site-address .address-mail:hover {
-    color: #404BBF;
+    color: var(--hover-color)
 }
 .site-address .address-phone {
 font-weight: 400;
@@ -78,12 +78,12 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .site-address .address-phone:hover {
-    color: #404BBF;
+    color:var(--hover-color)
 }
 
 /* HeroSection1 */
 .hero {
-    background-color:#2E2F42;
+    background-color:var(--hero-background-color)
 }
 .hero-titel{
     font-weight: 700;
@@ -158,21 +158,21 @@ color: #434455;
     }
     /* Body */
 .section .section-title{ 
-        color: #2E2F42;
+        color: var(--headings-color) 
     }
 .section-discription .section-title{
-    color: #2E2F42;
+    color:var(--headings-color) 
     }
   
  .section .section-discription{
-    color: #2E2F42;
+    color: var(--headings-color) 
     }
 
 .section .section-p{
-    color: #434455;
+    color: var(--text-color) 
 }
 .section .section-p{
-    color: #434455;
+    color: var(--text-color) 
 }
 
  /* Footer */
