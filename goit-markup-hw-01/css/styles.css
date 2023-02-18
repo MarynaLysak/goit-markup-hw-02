@@ -57,8 +57,6 @@ ul {
     background-color:#2E2F42;
 }
 .hero-titel{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 56px;
     line-height: 60px;
@@ -68,8 +66,6 @@ ul {
 } 
 /* Main Button */
 .main-button {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -96,8 +92,6 @@ ul {
 }
 /* Scrol */
 .secondary-button {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -150,8 +144,6 @@ ul {
 footer{
     background: #2E2F42;
     color: #E7E9FC;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
