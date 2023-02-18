@@ -4,6 +4,27 @@ p.a {
 p.a {
     font-family: 'Raleway', sans-serif;
 }
+
+/*Primary Brand color(normal)CTAs
+Focused
+Active states
+Links  color: #4D5AE5*/
+/*Pressed state (hover) color #404BBF*/
+/*Overlays Shadows Headings #2E2F42*/
+/*-text-color:#434455*/
+/*Subtle Text Helper text Deemphasized text #8E8F99
+/*Accent color Hairlines Subtle backgrounds #E7E9FC*/
+/*Light mode backgrounds Light mode Dialogs/alerts #F4F4FD*/
+/*Overlay #2E2F42*/
+/*Hero image background #2E2F42 */
+
+:root {
+    --hero-background-color: #2E2F42;
+    --text-color: #434455;
+    --headings-color: #2E2F42;
+    --hover-color:#404BBF;
+    --link-color:#4D5AE5;
+}
 /* Header */
 .page-header {
     background-color: #FFFFFF;
@@ -174,17 +195,5 @@ footer{
     line-height: 24px;
 }
 
-/*Primary Brand color(normal)CTAs
-Focused
-Active states
-Links  color: #4D5AE5*/
-/*Pressed state (hover) color #404BBF*/
-/*Overlays Shadows Headings #2E2F42*/
-/*-text-color:#434455*/
-/*Subtle Text Helper text Deemphasized text #8E8F99
-/*Accent color Hairlines Subtle backgrounds #E7E9FC*/
-/*Light mode backgrounds Light mode Dialogs/alerts #F4F4FD*/
-/*Overlay #2E2F42*/
-/*Hero image background #2E2F42 */
 
 
