@@ -190,6 +190,7 @@ body {
     color:var(--lolg-studio-color);
     width: 71px;
     height: 22px;
+    text-decoration: none;
 
     font-family: 'Raleway';
     font-style: normal;
